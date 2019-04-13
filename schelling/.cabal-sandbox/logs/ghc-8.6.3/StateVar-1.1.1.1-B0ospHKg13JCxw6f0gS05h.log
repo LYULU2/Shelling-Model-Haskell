@@ -1,0 +1,13 @@
+cabal: Entering directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96905/StateVar-1.1.1.1'
+Configuring StateVar-1.1.1.1...
+Preprocessing library for StateVar-1.1.1.1..
+Building library for StateVar-1.1.1.1..
+[1 of 1] Compiling Data.StateVar    ( src/Data/StateVar.hs, dist/dist-sandbox-40279706/build/Data/StateVar.o )
+[1 of 1] Compiling Data.StateVar    ( src/Data/StateVar.hs, dist/dist-sandbox-40279706/build/Data/StateVar.p_o )
+Preprocessing library for StateVar-1.1.1.1..
+Running Haddock on library for StateVar-1.1.1.1..
+Haddock coverage:
+ 100% ( 15 / 15) in 'Data.StateVar'
+Documentation created: dist/dist-sandbox-40279706/doc/html/StateVar/index.html
+Installing library in /Users/luerlyu/Downloads/coursework 2/schelling/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.3/StateVar-1.1.1.1-B0ospHKg13JCxw6f0gS05h
+cabal: Leaving directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96905/StateVar-1.1.1.1'

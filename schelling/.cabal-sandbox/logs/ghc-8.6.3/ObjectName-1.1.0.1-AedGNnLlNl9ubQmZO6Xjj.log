@@ -1,0 +1,14 @@
+cabal: Entering directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96904/ObjectName-1.1.0.1'
+Configuring ObjectName-1.1.0.1...
+Preprocessing library for ObjectName-1.1.0.1..
+Building library for ObjectName-1.1.0.1..
+[1 of 1] Compiling Data.ObjectName  ( src/Data/ObjectName.hs, dist/dist-sandbox-40279706/build/Data/ObjectName.o )
+[1 of 1] Compiling Data.ObjectName  ( src/Data/ObjectName.hs, dist/dist-sandbox-40279706/build/Data/ObjectName.p_o )
+Preprocessing library for ObjectName-1.1.0.1..
+Running Haddock on library for ObjectName-1.1.0.1..
+Haddock coverage:
+ 100% (  3 /  3) in 'Data.ObjectName'
+Documentation created:
+dist/dist-sandbox-40279706/doc/html/ObjectName/index.html
+Installing library in /Users/luerlyu/Downloads/coursework 2/schelling/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.3/ObjectName-1.1.0.1-AedGNnLlNl9ubQmZO6Xjj
+cabal: Leaving directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96904/ObjectName-1.1.0.1'

@@ -1,0 +1,17 @@
+cabal: Entering directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96904/half-0.3'
+Configuring half-0.3...
+Preprocessing library for half-0.3..
+Building library for half-0.3..
+[1 of 1] Compiling Numeric.Half     ( src/Numeric/Half.hs, dist/dist-sandbox-40279706/build/Numeric/Half.o )
+[1 of 1] Compiling Numeric.Half     ( src/Numeric/Half.hs, dist/dist-sandbox-40279706/build/Numeric/Half.p_o )
+Preprocessing library for half-0.3..
+Running Haddock on library for half-0.3..
+Haddock coverage:
+  81% ( 13 / 16) in 'Numeric.Half'
+  Missing documentation for:
+    Half (src/Numeric/Half.hs:71)
+    HALF_MIN_10_EXP (src/Numeric/Half.hs:196)
+    HALF_MAX_10_EXP (src/Numeric/Half.hs:199)
+Documentation created: dist/dist-sandbox-40279706/doc/html/half/index.html
+Installing library in /Users/luerlyu/Downloads/coursework 2/schelling/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.3/half-0.3-Ev8Lz3j60xACodwSKk6ogk
+cabal: Leaving directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96904/half-0.3'

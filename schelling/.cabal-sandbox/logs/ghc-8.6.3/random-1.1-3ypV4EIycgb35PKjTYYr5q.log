@@ -1,0 +1,36 @@
+cabal: Entering directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96905/random-1.1'
+Warning: random.cabal:15:2: Tabs used as indentation at 15:2, 16:2, 17:2
+Configuring random-1.1...
+Preprocessing library for random-1.1..
+Building library for random-1.1..
+[1 of 1] Compiling System.Random    ( System/Random.hs, dist/dist-sandbox-40279706/build/System/Random.o )
+
+System/Random.hs:43:1: warning: [-Wtabs]
+    Tab character found here, and in 74 further locations.
+    Please use spaces instead.
+   |
+43 |         (
+   | ^^^^^^^^
+[1 of 1] Compiling System.Random    ( System/Random.hs, dist/dist-sandbox-40279706/build/System/Random.p_o )
+
+System/Random.hs:43:1: warning: [-Wtabs]
+    Tab character found here, and in 74 further locations.
+    Please use spaces instead.
+   |
+43 |         (
+   | ^^^^^^^^
+Preprocessing library for random-1.1..
+Running Haddock on library for random-1.1..
+
+System/Random.hs:43:1: warning: [-Wtabs]
+    Tab character found here, and in 74 further locations.
+    Please use spaces instead.
+   |
+43 |         (
+   | ^^^^^^^^
+Haddock coverage:
+Cannot find documentation for: $intro
+ 100% ( 16 / 16) in 'System.Random'
+Documentation created: dist/dist-sandbox-40279706/doc/html/random/index.html
+Installing library in /Users/luerlyu/Downloads/coursework 2/schelling/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.3/random-1.1-3ypV4EIycgb35PKjTYYr5q
+cabal: Leaving directory '/var/folders/0v/61dswkc15db8cvl5lz07lz4h0000gn/T/cabal-tmp-96905/random-1.1'

@@ -1,0 +1,11 @@
+cabal: Entering directory '.'
+Configuring schelling-0.1.0.0...
+Preprocessing executable 'schelling' for schelling-0.1.0.0..
+Building executable 'schelling' for schelling-0.1.0.0..
+[1 of 2] Compiling Schelling        ( src/Schelling.hs, dist/dist-sandbox-40279706/build/schelling/schelling-tmp/Schelling.o )
+Linking dist/dist-sandbox-40279706/build/schelling/schelling ...
+Warning: No documentation was generated as this package does not contain a
+library. Perhaps you want to use the --executables, --tests, --benchmarks or
+--foreign-libraries flags.
+Installing executable schelling in /Users/luerlyu/Downloads/coursework 2/schelling/.cabal-sandbox/bin
+cabal: Leaving directory '.'
